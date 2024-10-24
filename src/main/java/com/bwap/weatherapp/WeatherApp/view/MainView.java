@@ -2,7 +2,7 @@ package com.bwap.weatherapp.WeatherApp.view;
 
 import com.bwap.weatherapp.WeatherApp.controller.WeatherService;
 import com.vaadin.icons.VaadinIcons;
-import com.vaadin.server.ClassResource;
+// import com.vaadin.server.ClassResource;
 import com.vaadin.server.ExternalResource;
 import com.vaadin.server.VaadinRequest;
 import com.vaadin.spring.annotation.SpringUI;
@@ -206,7 +206,7 @@ public class MainView<cityName> extends UI {
         footer.setWidth("100%");
         footer.setHeight("40px");
         Label description = new Label();
-        description.setValue("Weather App by Saad Aslam . Visit my Github Repo for complete code of this project.https://github.com/saadusufzai/WeatherApp ");
+        description.setValue("Weather App by Parth. Visit my Github Repo for complete code of this project=> https://github.com/PARTH-kodes/WeatherMonitoringApplication.git ");
         footer.addComponents(description);
         mainLayout.addComponents(footer);
     }
