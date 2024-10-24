@@ -28,8 +28,8 @@ This is a Spring Boot application for monitoring weather conditions using the Op
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/saadusufzai/WeatherApp.git
-   cd WeatherApp
+   git clone https://github.com/PARTH-kodes/WeatherMonitoringApplication.git
+   cd WeatherMonitoringApplication
    ```
 
 2. **Install Dependencies**:
